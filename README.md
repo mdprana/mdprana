@@ -3,7 +3,7 @@
 <h3 align="center">An Informatics Major from Indonesia and Aspiring into Cybersecurity and Web Development</h3></p><br><br>
 <img align="right" alt="Hengker" width="435" src="https://i.imgflip.com/443119.png")
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=mdprana&label=Profile%20views&color=0e75b6&style=flat" alt="mdprana" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mdprana&label=Profile%20Views&color=0e75b6&style=flat" alt="mdprana" /> </p>
 
 <p align="left"> <a href="https://twitter.com/madeprana_" target="blank"><img src="https://img.shields.io/twitter/follow/madeprana_?logo=twitter&style=for-the-badge" alt="madeprana_" /></a> </p>
 
