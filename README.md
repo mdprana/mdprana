@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bbefa799786133.5efa9bf3d1b49.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Prana</h1>
 <h3 align="center">An Informatics Major from Indonesia and Aspiring into Cybersecurity and Web Development</h3></p><br><br>
-<img align="right" alt="Cyberpunk" width="330" src="https://i.redd.it/hw5oslzborl91.gif")
+<img align="right" alt="Cyberpunk" width="317" src="https://i.redd.it/hw5oslzborl91.gif")
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mdprana&label=Profile%20Views&color=0e75b6&style=flat" width="130" alt="mdprana" /> </p>
 
