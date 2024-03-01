@@ -1,5 +1,17 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bbefa799786133.5efa9bf3d1b49.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Prana</h1>
+<!-- ----------- HEAD SECTION ------------ -->
+
+[![MasterHead](https://github.com/mdprana/mdprana/assets/95018619/a3deb918-cff3-4fce-bc98-50aba33b9940)](https://rishavchanda.io)
+
+<p align="center"><img src="https://github.com/mdprana/mdprana/assets/95018619/1444c7ac-e1f1-4e93-923d-4634e3aa486d"</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=40&pause=5000&color=37EBF3&center=true&vCenter=true&random=false&width=550&height=70&lines=Hi+There%F0%9F%91%8B%2C+I'm+Prana">
+</p>
+
+<p align="center"><img src="https://github.com/mdprana/mdprana/assets/95018619/1444c7ac-e1f1-4e93-923d-4634e3aa486d"</p>
+
+<!-- ----------- CREDIT OF THIS SECTION TO PRANA ------------ -->
+  
 <h3 align="center">An Informatics Major from Indonesia and Aspiring into Cybersecurity and Web Development</h3></p><br><br>
 <img align="right" alt="Cyberpunk" width="317" src="https://i.redd.it/hw5oslzborl91.gif")
 
@@ -16,8 +28,13 @@
 - 📫 How to reach me **mdpranajaya@gmail.com**
 
 - ⚡ Fun fact **If the world were open source, I'd definitely sneak a peek at the 'human.c' file to see how they programmed emotions!**
-
 </p><br>
+
+<!-- ----------- CREDIT OF THIS SECTION TO PRANA ------------ -->
+<!-- ----------- HEAD SECTION END ------------ -->
+
+
+<!-- ----------- CONNECT WITH ME SECTION ------------ -->
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -37,6 +54,11 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
+
+<!-- ----------- CONNECT WITH ME SECTION END ------------ -->
+
+
+<!-- ----------- LANGUAGES AND TOOLS SECTION ------------ -->
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
@@ -79,9 +101,19 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
 </div>
 
+<!-- ----------- LANGUAGES AND TOOLS SECTION END ------------ -->
+
+
+<!-- ----------- SUPPORT SECTION ------------ -->
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mdprana"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mdprana" /></a></p><br><br>
 </p><br><br>
+  
+<!-- ----------- SUPPORT SECTION END ------------ -->
+
+
+<!-- ----------- GITHUB STATS SECTION ------------ -->
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdprana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -91,3 +123,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/mdprana/mdprana/output/snake.svg" alt="Snake animation" />
+
+<!-- ----------- GITHUB STATS SECTION END ------------ -->
