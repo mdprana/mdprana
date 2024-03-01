@@ -21,7 +21,7 @@
 
 - 🏫 I’m currently studying at **Udayana University**
 
-- 🌱 I’m currently learning **CTF, Web Pentest, Bug Bounty Hunting, Kali Linux Framework**
+- 🌱 I’m currently learning **CTF, Web Pentest, Bug Bounty Hunting, Ethical Hacker, Kali Linux Framework**
 
 - 💬 Ask me about **Web Development, Kali Linux**
 
