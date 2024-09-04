@@ -12,7 +12,7 @@
 
 <!-- ----------- CREDIT OF THIS SECTION TO PRANA ------------ -->
   
-<h3 align="center">An Informatics Major from Indonesia and Aspiring into Cybersecurity and Web Development</h3></p><br><br>
+<h3 align="center">An Informatics Major from Indonesia and Aspiring into Machine Learning and Cybersecurity</h3></p><br><br>
 <img align="right" alt="Cyberpunk" width="317" src="https://i.redd.it/hw5oslzborl91.gif")
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mdprana&label=Profile%20Views&color=0e75b6&style=flat" width="130" alt="mdprana" /> </p>
@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **CTF, Web Pentest, Bug Bounty Hunting, Ethical Hacker, Kali Linux Framework**
 
-- 💬 Ask me about **Web Development, Kali Linux**
+- 💬 Ask me about **AI**
 
 - 📫 How to reach me **mdpranajaya@gmail.com**
 
