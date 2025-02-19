@@ -17,7 +17,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mdprana&label=Profile%20Views&color=0e75b6&style=flat" width="130" alt="mdprana" /> </p>
 
-<p align="left"> <a href="https://twitter.com/madeprana_" target="blank"><img src="https://img.shields.io/twitter/follow/madeprana_?logo=twitter&style=for-the-badge" alt="madeprana_" /></a> </p>
+<p align="left"> <a href="https://instagram.com/mdprana" target="blank"><img src="https://img.shields.io/badge/mdprana-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="mdprana" /></a> </p>
 
 - 🏫 I’m currently studying at **Udayana University**
 
