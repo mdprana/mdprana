@@ -1,127 +1,112 @@
-<!-- ----------- HEAD SECTION ------------ -->
+<div align="center">
 
-[![MasterHead](https://github.com/mdprana/mdprana/assets/95018619/a3deb918-cff3-4fce-bc98-50aba33b9940)](https://rishavchanda.io)
+```
+╔═══════════════════════════════════════╗
+║                                       ║
+║        WHO AM I?                      ║
+║        > just a ghost in the shell.   ║
+║                                       ║
+╚═══════════════════════════════════════╝
+```
 
-<p align="center"><img src="https://github.com/mdprana/mdprana/assets/95018619/1444c7ac-e1f1-4e93-923d-4634e3aa486d"</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=3000&color=00FF9C&center=true&vCenter=true&random=false&width=500&height=60&lines=machine+learning+%2F+cybersecurity;building+in+silence.;learning+never+stops." alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=40&pause=5000&color=37EBF3&center=true&vCenter=true&random=false&width=550&height=70&lines=Hi+There%F0%9F%91%8B%2C+I'm+Prana">
-</p>
-
-<p align="center"><img src="https://github.com/mdprana/mdprana/assets/95018619/1444c7ac-e1f1-4e93-923d-4634e3aa486d"</p>
-
-<!-- ----------- CREDIT OF THIS SECTION TO PRANA ------------ -->
-  
-<h3 align="center">An Informatics Major from Indonesia and Aspiring into Machine Learning and Cybersecurity</h3></p><br><br>
-<img align="right" alt="Cyberpunk" width="317" src="https://i.redd.it/hw5oslzborl91.gif")
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=mdprana&label=Profile%20Views&color=0e75b6&style=flat" width="130" alt="mdprana" /> </p>
-
-<p align="left"> <a href="https://instagram.com/mdprana" target="blank"><img src="https://img.shields.io/badge/mdprana-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="mdprana" /></a> </p>
-
-- 🏫 I’m currently studying at **Udayana University**
-
-- 🌱 I’m currently learning **CTF, Web Pentest, Bug Bounty Hunting, Ethical Hacker, Kali Linux Framework**
-
-- 💬 Ask me about **AI**
-
-- 📫 How to reach me **mdpranajaya@gmail.com**
-
-- ⚡ Fun fact **If the world were open source, I'd definitely sneak a peek at the 'human.c' file to see how they programmed emotions!**
-</p><br>
-
-<!-- ----------- CREDIT OF THIS SECTION TO PRANA ------------ -->
-<!-- ----------- HEAD SECTION END ------------ -->
-
-
-<!-- ----------- CONNECT WITH ME SECTION ------------ -->
-
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <a href="https://instagram.com/mdprana" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://linkedin.com/in/mdprana" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UC2FYGQX8z2uHDwcuwjlEQrQ" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://discordapp.com/users/419847664319070209" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://twitter.com/madeprana_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
 </div>
 
-<!-- ----------- CONNECT WITH ME SECTION END ------------ -->
+---
 
+<div align="center">
 
-<!-- ----------- LANGUAGES AND TOOLS SECTION ------------ -->
+```
+> whoami
+  ████████  — redacted
+> pwd
+  /somewhere/on/the/internet
+> cat focus.txt
+  [machine learning] [cybersecurity] [CTF]
+> echo $MINDSET
+  learn → break → build → repeat
+> systemctl status
+  ● always building something...
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobepremierepro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ae" height="30" alt="adobeaftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
 </div>
 
-<!-- ----------- LANGUAGES AND TOOLS SECTION END ------------ -->
+---
 
+### `> current learning`
 
-<!-- ----------- SUPPORT SECTION ------------ -->
+```
+$ sudo apt install knowledge --source=everywhere
+> CTF techniques
+> Web Penetration Testing
+> Ethical Hacking
+> Kali Linux Framework
+```
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mdprana"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mdprana" /></a></p><br><br>
-</p><br><br>
-  
-<!-- ----------- SUPPORT SECTION END ------------ -->
+---
 
+### `> tools & languages`
 
-<!-- ----------- GITHUB STATS SECTION ------------ -->
+<div align="center">
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdprana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=mdprana&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /></p><br>
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00FF9C)
+![C](https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=00FF9C)
+![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00FF9C)
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=00FF9C)
+![Rust](https://img.shields.io/badge/Rust-0D1117?style=flat-square&logo=rust&logoColor=00FF9C)
+![Luau](https://img.shields.io/badge/Luau-0D1117?style=flat-square&logo=roblox&logoColor=00FF9C)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00FF9C)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=00FF9C)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=00FF9C)
+![VSCode](https://img.shields.io/badge/VSCode-0D1117?style=flat-square&logo=visualstudiocode&logoColor=00FF9C)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=00FF9C)
+
 </div>
 
-<br clear="both">
+---
+
+### `> stats`
+
+<div align="center">
+
+<!-- Top Languages — via github-profile-summary-cards (more stable) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdprana&theme=github_dark&exclude=html,css" height="145" alt="top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdprana&theme=github_dark&exclude=html,css" height="145" alt="most used language" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=mdprana&mode=daily&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=888888&dates=888888&sideNums=00FF9C&currStreakNum=00FF9C" height="145" alt="streak graph" />
+
+</div>
+
+---
+
+### `> reach me`
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=00FF9C)](https://discordapp.com/users/419847664319070209)
+
+```
+// i don't bite. usually.
+```
+
+</div>
+
+---
+
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/mdprana/mdprana/output/snake.svg" alt="Snake animation" />
 
-<!-- ----------- GITHUB STATS SECTION END ------------ -->
+```
+"If the world were open source, I'd peek at human.c
+ just to see how they programmed emotions."
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=mdprana&color=00FF9C&style=flat-square&label=visitors)
+
+</div>
